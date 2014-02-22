@@ -1,4 +1,6 @@
-crossword
+Crossword Puzzle Solver
 =========
 
-Cross-word puzzle solver
+Language: C++
+IDE: xCode
+Platform: MAX OS X
