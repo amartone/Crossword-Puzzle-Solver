@@ -5,4 +5,4 @@ Language: C++
 
 IDE: xCode
 
-Platform: MAX OS X
+Platform: MAC OS X
